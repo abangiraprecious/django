@@ -5,4 +5,4 @@
 - Emphasizes reusability of components, aslo referred to as DRY (don't repeat yourself), and comes with ready to use features like lohin system, database connection and CRUD operations (Create Read Update Delete)
 
 ##### How does Django Work?
-- Data is delivered 
+- Data is delivered as 
